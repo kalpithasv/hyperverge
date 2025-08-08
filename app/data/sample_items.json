@@ -1,0 +1,26 @@
+{
+  "SQL": {
+    "Medium": {
+      "mcqs": [
+        {
+          "type": "mcq",
+          "question": "Which SQL clause is used with aggregate functions?",
+          "options": ["WHERE", "GROUP BY", "HAVING", "ORDER BY"],
+          "answer": "HAVING"
+        }
+      ],
+      "saqs": [
+        {
+          "type": "saq",
+          "question": "Write a query to find the 2nd highest salary from employee table."
+        }
+      ],
+      "aptitude": [
+        {
+          "type": "aptitude",
+          "question": "If a chart shows revenue vs time, how do you find CAGR?"
+        }
+      ]
+    }
+  }
+}
